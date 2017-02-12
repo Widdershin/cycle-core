@@ -8,6 +8,7 @@
     "@cycle/isolate": "2.0.0-rc.1",
     "@cycle/run": "1.0.0-rc.8",
     "@cycle/dom": "15.0.0-rc.2",
+    "@cycle/time": "^0.6.1",
     "xstream": "10.2",
     "lodash": "4.2.x"
   },
